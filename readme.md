@@ -44,5 +44,17 @@ main
 develop
 
 
+BITBUCKET
+GITHUB
+GITLAB
+CIRCLE CI
+AZURE - GIT
 
+
+Assignment - 06th March 2026
+
+1. Create a FUNCTION in Javascript to print Random 5 Digit Number
+2. Create a FUNCTION in Javascript to print First 100 Numbers
+3. Create a FUNCTION in Javascript to print random US FORMAT MOBILE NUMBER
+4. Create a FUNCTION in Javascript to print first 20 Fibonacci Number
 
