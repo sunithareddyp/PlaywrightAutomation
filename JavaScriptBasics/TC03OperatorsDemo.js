@@ -11,7 +11,7 @@ console.log(a - b) //Subtraction
 console.log(a * b) //Multiplication
 console.log(a / b) //Division
 console.log(a % b) //Modulus - 1
-console.log(a ** b) //Exponential - 1000
+console.log(a ** b) //Exponential - 1000 - 2 power 3 = 8 = 2 ** 3
 
 console.log("================================")
 
@@ -55,3 +55,4 @@ console.log(g-=5) //= g = g - 5 = 100010 - 5 = 100005
 console.log(g*=2) //= g = g * 2 = 100005 * 2 = 200010
 console.log(g/=5) //= g = g / 5 = 200010 / 5 = 40002
 console.log(g%=3) //= g = g % 3 = 40002 % 3 = 0
+
